@@ -1,6 +1,6 @@
 # Run-length-encoding
 
-Run Length Encoding is a method of string compression as explained [here](https://en.wikipedia.org/wiki/Run-length_encoding)
+Run Length Encoding is a method of string compression as explained [here](https://en.wikipedia.org/wiki/Run-length_encoding).
 
 ## Example
 
