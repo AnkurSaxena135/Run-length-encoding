@@ -61,7 +61,7 @@ def decode(s: str) -> str:
 
 Links to some more approaches using built-in packages
 
-1. [itertools.groupby](https://stackoverflow.com/questions/18948382/run-length-encoding-in-python)
-2. [more_itertools.run_length](https://more-itertools.readthedocs.io/en/latest/api.html#more_itertools.run_length)
-3. [Regular Expression](https://rosettacode.org/wiki/Run-length_encoding#Python)
-4. [collections.OrderedDict](https://www.geeksforgeeks.org/run-length-encoding-python/?ref=rp)
++ [itertools.groupby](https://stackoverflow.com/questions/18948382/run-length-encoding-in-python)
++ [more_itertools.run_length](https://more-itertools.readthedocs.io/en/latest/api.html#more_itertools.run_length)
++ [Regular Expression](https://rosettacode.org/wiki/Run-length_encoding#Python)
++ [collections.OrderedDict](https://www.geeksforgeeks.org/run-length-encoding-python/?ref=rp)
